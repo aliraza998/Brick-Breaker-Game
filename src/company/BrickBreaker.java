@@ -1,4 +1,4 @@
-package com.company;
+package company;
 import javax.swing.*;
 
 public class BrickBreaker {
